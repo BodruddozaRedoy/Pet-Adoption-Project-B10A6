@@ -1,0 +1,8 @@
+*{
+    scroll-behavior: smooth;
+}
+.active{
+    background-color: #0e812b2c;
+    border: 2px solid #0E7A81;
+}
+
